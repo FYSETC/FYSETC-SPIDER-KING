@@ -8,7 +8,7 @@ Before you use the [SAMF-OS_OrangePi_zero](https://github.com/FYSETC/FYSETC-SAMF
 
 Download and flash the OS image with `balenaEtcher` software to your TF card. Insert your flashed TF card to OrangePi-zero and connect Ethernet cable then power on. Find the ip address of OrangePi-zero on your router, host name is `orangepizero`.
 
-![](OrangePi-zero\OrangePi_zero.jpg)
+![](OrangePi-zero/OrangePi_zero.jpg)
 
 ### Step 2
 
@@ -29,7 +29,7 @@ dfu-util -R -a 0 -s 0x08008000:leave -D firmwares/spider-king407.bin
 
 or follow the instructions [here](https://github.com/FYSETC/FYSETC-SPIDER#44--firmware-upload) for firmware uploading. Remember to remove the `3.3v` `BT0` jumper and click the reset button after you flashed the firmware. 
 
-![](OrangePi-zero\spider-king.jpg)
+![](OrangePi-zero/spider-king.jpg)
 
 ### Step 3:
 
