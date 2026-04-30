@@ -41,4 +41,4 @@
 
 ## 2. Documents
 
-Check our wiki [FYSETC SPIDER KING - FYSETC WIKI](https://wiki.fysetc.com/FYSETC-SPIDER-KING/).
+Check our wiki [FYSETC SPIDER KING - FYSETC WIKI](https://wiki.fysetc.com/docs/FYSETCSPIDERKING).
